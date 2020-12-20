@@ -1,0 +1,36 @@
+.img{
+  
+   height: auto;
+   margin: 10% 10%;
+   width: auto;
+   height: auto;
+   position: relative;
+
+}
+.text{
+	align-content: center;
+	color: #fff;
+	font-family: Copperplate;
+    font-size: 27px;
+    position: relative;
+    margin: 30px 30px;
+    height: auto;
+    word-spacing: 3px
+    text-shadow: 2px 2px #000000;
+}
+.head{
+	width: 800px;
+	height: 10px;
+   font-size: 30px;
+	text-align: center;
+    color: #F0E68C;
+    position: relative;
+    margin: 5% 20%;
+    text-shadow: 2px 2px #000000;
+
+}
+	
+
+
+	
+
