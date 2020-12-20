@@ -1,10 +1,14 @@
 .img{
   
-   height: auto;
-   margin: 10% 10%;
-   width: auto;
-   height: auto;
+   height: relative;
+  margin: 10% 10%;
+   width: relative;
+   /*margin: 100px 100px;*/
+   /*align: center;*/
    position: relative;
+   object-fit: cover;
+   
+   align-items: center; 
 
 }
 .text{

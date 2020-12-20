@@ -23,6 +23,7 @@ body
 	display: inline-flex;
 	list-style: none;
 	color: #F0FFF0;
+	font-size: 18px;
 }
 .menu-bar ul li
 {
